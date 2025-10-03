@@ -1,0 +1,64 @@
+x-rabbitmq-config: &rabbitmq-config
+  RABBITMQ_HOST: rabbitmq
+  RABBITMQ_PORT: 5672
+  RABBITMQ_USER: ${RABBITMQ_USER:-admin}
+  RABBITMQ_PASS: ${RABBITMQ_PASS:-admin123}
+
+x-common-service: &common-service
+  depends_on:
+    rabbitmq:
+      condition: service_healthy
+  environment:
+    <<: *rabbitmq-config
+  networks:
+    - sistema-ia-network
+  restart: unless-stopped
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "${RABBITMQ_PORT:-5672}:5672"
+      - "${RABBITMQ_MGMT_PORT:-15672}:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER:-admin}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASS:-admin123}
+    networks:
+      - sistema-ia-network
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  gerador-mensagens:
+    <<: *common-service
+    build: ./gerador-mensagens
+    container_name: gerador-mensagens
+
+    volumes:
+    # Mapeia a pasta local de rostos para dentro do contêiner
+    - ./gerador-mensagens/base-rosto:/app/base-rosto
+    # Mapeia a pasta local de brasões para dentro do contêiner
+    - ./gerador-mensagens/base-brasao:/app/base-brasao
+
+  rosto:
+    <<: *common-service
+    build: ./rosto
+    container_name: rosto
+
+  brasao:
+    <<: *common-service
+    build: ./brasao
+    container_name: brasao
+
+networks:
+  sistema-ia-network:
+    driver: bridge
+
+volumes:
+  rabbitmq-data:

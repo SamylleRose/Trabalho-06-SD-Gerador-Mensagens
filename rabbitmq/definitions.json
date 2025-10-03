@@ -1,0 +1,82 @@
+{
+  "rabbit_version": "3.12.0",
+  "rabbitmq_version": "3.12.0",
+  "product_name": "RabbitMQ",
+  "product_version": "3.12.0",
+  "users": [
+    {
+      "name": "admin",
+      "password_hash": "gBzA0ZNJ2BbDrAhsUFlYplgfpnfOFN4gB+8lWqOLcJM=",
+      "hashing_algorithm": "rabbit_password_hashing_sha256",
+      "tags": ["administrator"]
+    }
+  ],
+  "vhosts": [
+    {
+      "name": "/"
+    }
+  ],
+  "permissions": [
+    {
+      "user": "admin",
+      "vhost": "/",
+      "configure": ".*",
+      "write": ".*",
+      "read": ".*"
+    }
+  ],
+  "topic_permissions": [],
+  "parameters": [],
+  "global_parameters": [
+    {
+      "name": "internal_cluster_id",
+      "value": "rabbitmq-cluster-id-sistema-ia"
+    }
+  ],
+  "policies": [],
+  "queues": [
+    {
+      "name": "face_queue",
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {}
+    },
+    {
+      "name": "team_queue", 
+      "vhost": "/",
+      "durable": true,
+      "auto_delete": false,
+      "arguments": {}
+    }
+  ],
+  "exchanges": [
+    {
+      "name": "image_analysis_exchange",
+      "vhost": "/",
+      "type": "topic",
+      "durable": true,
+      "auto_delete": false,
+      "internal": false,
+      "arguments": {}
+    }
+  ],
+  "bindings": [
+    {
+      "source": "image_analysis_exchange",
+      "vhost": "/",
+      "destination": "face_queue",
+      "destination_type": "queue",
+      "routing_key": "face",
+      "arguments": {}
+    },
+    {
+      "source": "image_analysis_exchange",
+      "vhost": "/",
+      "destination": "team_queue",
+      "destination_type": "queue", 
+      "routing_key": "team",
+      "arguments": {}
+    }
+  ]
+}

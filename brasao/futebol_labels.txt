@@ -1,0 +1,398 @@
+Austria Vienna
+FC Blau-Weiss Linz
+Grazer AK 1902
+LASK
+Rapid Vienna
+Red Bull Salzburg
+SCR Altach
+SK Sturm Graz
+SV Ried
+TSV Hartberg
+Wolfsberger AC
+WSG Tirol
+Cercle Brugge
+Club Brugge KV
+FCV Dender EH
+KAA Gent
+KRC Genk
+KV Mechelen
+KVC Westerlo
+Oud-Heverlee Leuven
+RAAL La Louvière
+Royal Antwerp FC
+Royal Charleroi SC
+RSC Anderlecht
+Sint-Truidense VV
+Standard Liège
+Union Saint-Gilloise
+Zulte Waregem
+Arda Kardzhali
+Beroe Stara Zagora
+Botev Plovdiv
+Botev Vratsa
+Cherno More Varna
+CSKA 1948
+CSKA-Sofia
+Dobrudzha Dobrich
+Levski Sofia
+Lokomotiv Plovdiv
+Lokomotiv Sofia
+Ludogorets Razgrad
+Montana
+Septemvri Sofia
+Slavia Sofia
+Spartak Varna
+GNK Dinamo Zagreb
+HNK Gorica
+HNK Hajduk Split
+HNK Rijeka
+HNK Vukovar 1991
+NK Istra 1961
+NK Lokomotiva Zagreb
+NK Osijek
+NK Varazdin
+Slaven Belupo Koprivnica
+1.FC Slovacko
+AC Sparta Prague
+Bohemians Prague 1905
+FC Banik Ostrava
+FC Hradec Kralove
+FC Slovan Liberec
+FC Viktoria Plzen
+FC Zlin
+FK Dukla Prague
+FK Jablonec
+FK Mlada Boleslav
+FK Pardubice
+FK Teplice
+MFK Karvina
+SK Sigma Olomouc
+SK Slavia Prague
+Aarhus GF
+Bröndby IF
+FC Copenhagen
+FC Fredericia
+FC Midtjylland
+FC Nordsjaelland
+Odense Boldklub
+Randers FC
+Silkeborg IF
+Sönderjyske
+Vejle Boldklub
+Viborg FF
+AFC Bournemouth
+Arsenal FC
+Aston Villa
+Brentford FC
+Brighton & Hove Albion
+Burnley FC
+Chelsea FC
+Crystal Palace
+Everton FC
+Fulham FC
+Leeds United
+Liverpool FC
+Manchester City
+Manchester United
+Newcastle United
+Nottingham Forest
+Sunderland AFC
+Tottenham Hotspur
+West Ham United
+Wolverhampton Wanderers
+AJ Auxerre
+Angers SCO
+AS Monaco
+FC Lorient
+FC Metz
+FC Nantes
+FC Toulouse
+Le Havre AC
+LOSC Lille
+OGC Nice
+Olympique Lyon
+Olympique Marseille
+Paris FC
+Paris Saint-Germain
+RC Lens
+RC Strasbourg Alsace
+Stade Brestois 29
+Stade Rennais FC
+1.FC Heidenheim 1846
+1.FC Köln
+1.FC Union Berlin
+1.FSV Mainz 05
+Bayer 04 Leverkusen
+Bayern Munich
+Borussia Dortmund
+Borussia Mönchengladbach
+Eintracht Frankfurt
+FC Augsburg
+FC St. Pauli
+Hamburger SV
+RB Leipzig
+SC Freiburg
+SV Werder Bremen
+TSG 1899 Hoffenheim
+VfB Stuttgart
+VfL Wolfsburg
+AE Kifisias
+AE Larisa
+AEK Athens
+APO Levadiakos
+Aris Thessaloniki
+Asteras Aktor
+Atromitos Athens
+OFI Crete FC
+Olympiacos Piraeus
+Panathinaikos FC
+Panetolikos GFS
+Panserraikos
+PAOK Thessaloniki
+Volos NPS
+Beitar Jerusalem
+FC Ashdod
+Hapoel Beer Sheva
+Hapoel Haifa
+Hapoel Jerusalem
+Hapoel Petah Tikva
+Hapoel Tel Aviv
+Ihud Bnei Sakhnin
+Ironi Kiryat Shmona
+Ironi Tiberias
+Maccabi Bnei Reineh
+Maccabi Haifa
+Maccabi Netanya
+Maccabi Tel Aviv
+AC Milan
+ACF Fiorentina
+AS Roma
+Atalanta BC
+Bologna FC 1909
+Cagliari Calcio
+Como 1907
+Genoa CFC
+Hellas Verona
+Inter Milan
+Juventus FC
+Parma Calcio 1913
+Pisa Sporting Club
+SS Lazio
+SSC Napoli
+Torino FC
+Udinese Calcio
+US Cremonese
+US Lecce
+US Sassuolo
+Ajax Amsterdam
+AZ Alkmaar
+Excelsior Rotterdam
+FC Groningen
+FC Utrecht
+FC Volendam
+Feyenoord Rotterdam
+Fortuna Sittard
+Go Ahead Eagles
+Heracles Almelo
+NAC Breda
+NEC Nijmegen
+PEC Zwolle
+PSV Eindhoven
+SC Heerenveen
+SC Telstar
+Sparta Rotterdam
+Twente Enschede FC
+Bryne FK
+FK BodøGlimt
+FK Haugesund
+Fredrikstad FK
+Hamarkameratene
+KFUM-Kameratene Oslo
+Kristiansund BK
+Molde FK
+Rosenborg BK
+Sandefjord Fotball
+Sarpsborg 08 FF
+SK Brann
+Strømsgodset IF
+Tromsø IL
+Viking FK
+Vålerenga Fotball Elite
+Arka Gdynia
+Bruk-Bet Termalica Nieciecza
+Cracovia
+GKS Katowice
+Górnik Zabrze
+Jagiellonia Bialystok
+Korona Kielce
+Lech Poznan
+Lechia Gdansk
+Legia Warszawa
+Motor Lublin
+Piast Gliwice
+Pogon Szczecin
+Radomiak Radom
+Raków Częstochowa
+Widzew Lodz
+Wisla Plock
+Zaglebie Lubin
+Avs Futebol
+Casa Pia AC
+CD Nacional
+CD Santa Clara
+CD Tondela
+CF Estrela Amadora
+FC Alverca
+FC Arouca
+FC Famalicão
+FC Porto
+GD Estoril Praia
+Gil Vicente FC
+Moreirense FC
+Rio Ave FC
+SC Braga
+SL Benfica
+Sporting CP
+Vitória Guimarães SC
+ACSC FC Arges
+AFC Unirea 04 Slobozia
+AFK Csikszereda Miercurea Ciuc
+CFR Cluj
+CS Universitatea Craiova
+FC Botosani
+FC Dinamo 1948
+FC Hermannstadt
+FC Metaloglobus Bucharest
+FC Rapid 1923
+FC Universitatea Cluj
+FCSB
+FCV Farul Constanta
+Petrolul Ploiesti
+SC Otelul Galati
+UTA Arad
+Akhmat Grozny
+Akron Togliatti
+Baltika Kaliningrad
+CSKA Moscow
+Dinamo Makhachkala
+Dynamo Moscow
+FC Krasnodar
+FC Pari Nizhniy Novgorod
+FC Rostov
+FC Sochi
+Krylya Sovetov Samara
+Lokomotiv Moscow
+Rubin Kazan
+Spartak Moscow
+Torpedo Moscow
+Zenit St. Petersburg
+Aberdeen FC
+Celtic FC
+Dundee FC
+Dundee United FC
+Falkirk FC
+Heart of Midlothian FC
+Hibernian FC
+Kilmarnock FC
+Livingston FC
+Motherwell FC
+Rangers FC
+St. Mirren FC
+FK Cukaricki
+FK IMT Belgrad
+FK Javor-Matis Ivanjica
+FK Mladost Lucani
+FK Napredak Krusevac
+FK Novi Pazar
+FK Partizan Belgrade
+FK Radnicki 1923 Kragujevac
+FK Radnicki Nis
+FK Radnik Surdulica
+FK Spartak Subotica
+FK TSC Backa Topola
+FK Vojvodina Novi Sad
+OFK Beograd
+Red Star Belgrade
+Zeleznicar Pancevo
+Athletic Bilbao
+Atlético de Madrid
+CA Osasuna
+Celta de Vigo
+Deportivo Alavés
+Elche CF
+FC Barcelona
+Getafe CF
+Girona FC
+Levante UD
+Rayo Vallecano
+RCD Espanyol Barcelona
+RCD Mallorca
+Real Betis Balompié
+Real Madrid
+Real Oviedo
+Real Sociedad
+Sevilla FC
+Valencia CF
+Villarreal CF
+AIK
+BK Häcken
+Degerfors IF
+Djurgårdens IF
+GAIS
+Halmstads BK
+Hammarby IF
+IF Brommapojkarna
+IF Elfsborg
+IFK Göteborg
+IFK Norrköping
+IFK Värnamo
+IK Sirius
+Malmö FF
+Mjällby AIF
+Östers IF
+BSC Young Boys
+FC Basel 1893
+FC Lausanne-Sport
+FC Lugano
+FC Luzern
+FC Sion
+FC St. Gallen 1879
+FC Thun
+FC Winterthur
+FC Zürich
+Grasshopper Club Zurich
+Servette FC
+Alanyaspor
+Antalyaspor
+Basaksehir FK
+Besiktas JK
+Caykur Rizespor
+Eyüpspor
+Fatih Karagümrük
+Fenerbahce
+Galatasaray
+Gaziantep FK
+Genclerbirligi Ankara
+Göztepe
+Kasimpasa
+Kayserispor
+Kocaelispor
+Konyaspor
+Samsunspor
+Trabzonspor
+Dynamo Kyiv
+Epicentr Kamyanets-Podilskyi
+FC Kudrivka
+FC Oleksandriya
+Karpaty Lviv
+Kolos Kovalivka
+Kryvbas Kryvyi Rig
+LNZ Cherkasy
+Metalist 1925 Kharkiv
+NK Veres Rivne
+Obolon Kyiv
+Polissya Zhytomyr
+Rukh Lviv
+SC Poltava
+Shakhtar Donetsk
+Zorya Lugansk
