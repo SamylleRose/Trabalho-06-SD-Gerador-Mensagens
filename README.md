@@ -344,10 +344,6 @@ sistema-carga-ia/
 - Base de conhecimento de 10 times brasileiros
 - Cálculo de confiança baseado em score de similaridade
 
-## 👥 Autor
-
-Jonas - Sistemas Distribuídos - Trabalho 6
-
 ---
 
 _Sistema desenvolvido para demonstrar conceitos de sistemas distribuídos, containerização e integração de IA em arquiteturas de microsserviços._
